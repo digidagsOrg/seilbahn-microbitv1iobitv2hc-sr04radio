@@ -1,5 +1,5 @@
 {
-    "name": "seilbahn Micro:BitV1+IObitV2+HC-SR04+Radio",
+    "name": "seilbahn Micro:BitV1+IObitV2+HC-SR04+Radio #Funktion",
     "description": "",
     "dependencies": {
         "core": "*",
